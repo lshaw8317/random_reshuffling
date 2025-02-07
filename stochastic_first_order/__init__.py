@@ -1,2 +1,2 @@
 from .sgd import Sgd
-from .shuffling import Shuffling
+from .shuffling import Shuffling, Symmetric
